@@ -31,5 +31,4 @@ push(1);
 push(9);
 pop();
 pop();
-
 console.log(data);
